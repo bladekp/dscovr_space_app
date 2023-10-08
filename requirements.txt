@@ -1,0 +1,10 @@
+jupyterlab
+numpy
+matplotlib
+keras
+tensorflow
+scikit-learn
+pandas
+scipy
+h5py
+networkx
